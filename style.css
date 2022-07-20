@@ -1,0 +1,37 @@
+#card1{
+    background-color: #f5f5f5;
+    color: black;
+    border: 1px dotted black;
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(104, 237, 52, 0.915), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+#Promotions{
+    background-color: #f5f5f5;
+    color: black;
+    border: 1px dotted black;
+    width: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    transition:0.3s;
+}
+#Promotions:hover{
+    background-color: lightgrey;
+    color: black;
+    border: 1px dotted black;
+    width: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+#button:hover{
+    background-color: rgb(35, 248, 63);
+    color: black;
+    border: 1px dotted black;
+    width: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+#body{
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+font-family: 'Open Sans', sans-serif;
+}
