@@ -9,7 +9,12 @@
 <body>
     <div class="dropdown">
         <div class="dropdown-content">
-            <a href="index.html">Certificates</a>
+            <a href="index.html">New</a>
+            <a href="index.html">Open</a>
+            <a href="index.html">Save</a>
+            <a href="index.html">Save As</a>
+            <a href="index.html">Close</a>
+            <a href="index.html">Exit</a>
         </div>
     </div>
     <div id="Card1">
